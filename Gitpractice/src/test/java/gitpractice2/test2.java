@@ -6,7 +6,7 @@ public class test2 {
 		System.out.println("new push");
 		System.out.println("new push2");
 		System.out.println("new push3");
-		
+		System.out.println("new push4");
 	}
 
 }
